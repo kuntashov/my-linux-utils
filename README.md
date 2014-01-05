@@ -8,7 +8,7 @@ This repo is intended to be just my personal backup of those scripts but not  so
 banshee-play-pause.sh
 ----------------------
 
-Banshee has no command switch that can function as Play/Payse button, but it has one switch (--play) to start and the other (--stop) to stop playing.
+Banshee has no command switch that can function as Play/Pause button, but it has one switch (--play) to start and the other (--stop) to stop playing.
 
 This simple script tries to figure out whether banshee plays something or not and then stops/starts playing accordingly. 
 
